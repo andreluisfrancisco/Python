@@ -1,0 +1,3 @@
+# Ignorar workspace local do VS Code
+*.code-workspace
+
