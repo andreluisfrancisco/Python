@@ -1,21 +1,7 @@
 {
-  "folders": [
-    {
-      "path": "."
-    }
-  ],
-  "settings": {
-    "git.enableSmartCommit": true,
-    "git.confirmSync": false,
-    "git.autofetch": true,
-    "files.autoSave": "onFocusChange",
-    "terminal.integrated.defaultProfile.linux": "bash"
-  },
-  "extensions": {
-    "recommendations": [
-      "GitHub.vscode-pull-request-github",
-      "ms-python.python",
-      "ms-azuretools.vscode-docker"
+    "folders": [
+        {
+            "path": ".."
+        }
     ]
-  }
 }
